@@ -3,3 +3,9 @@
 3.add
 4.commit
 5.push
+6.pull
+7.diff
+8.log
+9.repository
+10.github
+11.SSH

@@ -1,4 +1,4 @@
-﻿1.Git bash
+﻿1.Git bash Program command line to manage source data
 2.init
 3.add
 4.commit

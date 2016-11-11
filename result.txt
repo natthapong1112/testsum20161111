@@ -1,4 +1,4 @@
-1.Git bash
+﻿1.Git bash
 2.init
 3.add
 4.commit
@@ -9,9 +9,9 @@
 9.repository
 10.github
 11.SSH
-12.clone
-13.Branch
-14.Checkout
+12.clone ดึง Data ลงมาในเครื่อง
+13.Branch 
+14.Checkout เรียก ไฟล์
 15.Merge
 16.RM
 17.Reset

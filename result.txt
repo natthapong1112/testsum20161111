@@ -1,7 +1,18 @@
-12
-clone
-Branch
-Checkout
-Merge
-RM
-Reset
+1.Git bash
+2.init
+3.add
+4.commit
+5.push
+6.pull
+7.diff
+8.log
+9.repository
+10.github
+11.SSH
+12.clone
+13.Branch
+14.Checkout
+15.Merge
+16.RM
+17.Reset
+

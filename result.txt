@@ -1,7 +1,7 @@
 ﻿1.Git bash Program command line to manage source data
 2.init set github initial for directory
-3.add
-4.commit
+3.add add data to git hub
+4.commit comit******
 5.push อัพfileขึ้น Hub master
 6.pull ดึง file ลงมาเครื่อง Local
 7.diff ดูข้อมูล diff 

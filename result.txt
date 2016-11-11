@@ -9,10 +9,10 @@
 9.repository
 10.github
 11.SSH
-12.clone ดึง Data ลงมาในเครื่อง
-13.Branch 
-14.Checkout เรียก ไฟล์
-15.Merge รวม Branch
+12.clone --> ดึง Data ลงมาในเครื่อง
+13.Branch --> 
+14.Checkout --> เรียก ไฟล์
+15.Merge --> รวม Branch
 16.RM --> delete file
-17.Reset
+17.Reset -- ถอยค่า
 

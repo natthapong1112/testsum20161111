@@ -1,0 +1,5 @@
+1.Git bash
+2.init
+3.add
+4.commit
+5.push

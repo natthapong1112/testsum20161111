@@ -1,0 +1,7 @@
+12
+clone
+Branch
+Checkout
+Merge
+RM
+Reset

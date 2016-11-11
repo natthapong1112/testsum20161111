@@ -1,5 +1,5 @@
 ﻿1.Git bash Program command line to manage source data
-2.init
+2.init set github initial for directory
 3.add
 4.commit
 5.push อัพfileขึ้น Hub master

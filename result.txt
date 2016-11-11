@@ -2,9 +2,9 @@
 2.init set github initial for directory
 3.add
 4.commit
-5.push
-6.pull
-7.diff
+5.push อัพfileขึ้น Hub master
+6.pull ดึง file ลงมาเครื่อง Local
+7.diff ดูข้อมูล diff 
 8.log
 9.repository
 10.github
